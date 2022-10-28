@@ -1,0 +1,58 @@
+@import 'reset.css';
+@import 'content.css';
+@font-face {
+    font-family: "IBMPlexMono-Bold";
+    src: url("../fonts/IBMPlexMono-Bold.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-BoldItalic";
+    src: url("../fonts/IBMPlexMono-BoldItalic.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-ExtraLight";
+    src: url("../fonts/IBMPlexMono-ExtraLight.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-ExtraLightItalic";
+    src: url("../fonts/IBMPlexMono-ExtraLightItalic.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-Italic";
+    src: url("../fonts/IBMPlexMono-Italic.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-Light";
+    src: url("../fonts/IBMPlexMono-Light.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-LightItalic";
+    src: url("../fonts/IBMPlexMono-LightItalic.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-Medium";
+    src: url("../fonts/IBMPlexMono-Medium.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-MediumItalic";
+    src: url("../fonts/IBMPlexMono-MediumItalic.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-Regular";
+    src: url("../fonts/IBMPlexMono-Regular.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-SemiBold";
+    src: url("../fonts/IBMPlexMono-SemiBold.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-SemiBoldItalic";
+    src: url("../fonts/IBMPlexMono-SemiBoldItalic.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-Thin";
+    src: url("../fonts/IBMPlexMono-Thin.ttf")
+}
+@font-face {
+    font-family: "IBMPlexMono-ThinItalic";
+    src: url("../fonts/IBMPlexMono-ThinItalic.ttf")
+}
