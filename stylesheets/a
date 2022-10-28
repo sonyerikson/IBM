@@ -1,9 +1,0 @@
-.razntable2 {
-  position: relative;
-  width: 901px;
-  height: 381px;
-  left: 487px;
-  top: -916px;
-  display: flex;
-}
-.block2two {background: #0054F8;}
